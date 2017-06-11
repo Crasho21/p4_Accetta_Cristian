@@ -1,0 +1,17 @@
+Nell'implementazione ci sono alcune differenze rispetto al file sdd:
+
+
+1) Le parti di interfaccia grafica e salvataggio permanente su disco dei dati non era prevista, ma è stata implementata.
+
+2) Le funzioni scritte nel file sdd non sono le uniche ad essere presenti nell'implementazione, è stato necessario implementare alcune 
+   funzioni aggiuntive.
+
+3) Nella classe Dati le costanti dell'attributo provenienza sono state rese public, per potervi accedere anche dalle altre classi e 
+   dall'esterno per realizzare i test.
+
+4) Nella classe Gruppo è stato cancellato l'attributo id, in quanto non necessario, l'attributo nomeGruppo è già chiave primaria.
+
+5) La classe Dati è completamente diversa da quella del class diagram, poichè abbiamo ricevuto i dati pochi giorni prima della scadenza 
+   della consegna dell'implementazione.
+
+6) Come conseguenza del punto 5) il data type Recensione che avevamo ipotizzato non è stato necessario, quindi non è stato implementato.
