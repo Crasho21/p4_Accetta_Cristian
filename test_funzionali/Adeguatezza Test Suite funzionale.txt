@@ -1,5 +1,5 @@
-L'adeguatezza della Test Suite funzionale rispetto allo statement coverage è 61.3%
+L'adeguatezza della Test Suite funzionale rispetto allo statement coverage è 51.1%
 
-L'adeguatezza della Test Suite funzionale rispetto al branch coverage è 46.7%
+L'adeguatezza della Test Suite funzionale rispetto al branch coverage è 46.5%
 
-L'adeguatezza della Test Suite funzionale compleassiva (cioè rispetto ad entrambi) è 54%
+L'adeguatezza della Test Suite funzionale compleassiva (cioè rispetto ad entrambi) è 48.8%
