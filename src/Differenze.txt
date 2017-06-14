@@ -1,3 +1,11 @@
+Nell'implementazione c'è una sostanziale differenza rispetto al file srs:
+
+
+1) Il sistema descritto nel file srs è un web portal, mentre quello implementato è un programma java, è stato realizzato in questo modo 
+   dopo averne discusso con il professore.
+
+
+
 Nell'implementazione ci sono alcune differenze rispetto al file sdd:
 
 
