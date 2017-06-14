@@ -5,6 +5,8 @@
 ###
 ### 1) Scaricare il progetto cliccando da Github su download.
 ###
+### 2) Estrarre l'archivio del progetto.
+###
 ### 2) Aprire Eclipse
 ###
 ### 3) Andare su File -> Import -> General -> Projects from Folder or Archive -> Directory -> [Selezionare la cartella p4_accetta_cristian-master] -> Finish
