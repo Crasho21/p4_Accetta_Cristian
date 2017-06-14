@@ -5,10 +5,8 @@ La test suite non garantisce una copertua del 100% per 8 motivi:
 
 2) Nella classe Sistema è presente un costruttore per utilizzare l'interfaccia grafica, che non deve essere testato.
 
-3) Nella classe Gruppo la funzione aggregazioneDati non raggiunge il 100% di coverage, perchè non è stato possibile implementare dati
-   provenienti da Apple Store per mancanza dei suddetti dati, e perchè negli if effettuo un controllo sugli arraylist che si dirama in 4 
-   branches differenti, ma uno di essi non è fattibile, in quanto un arraylist non può mai essere nullo e avere dimensione diversa da zero
-   allo stesso istante.
+3) Nella classe Gruppo la funzione aggregazioneDati non raggiunge il 100% di statement coverage, perchè non è stato possibile implementare 
+   dati provenienti da Apple Store per mancanza dei suddetti dati.
 
 4) Nella classe Dati sono presenti alcuni set e get non testati, poichè non servono per gli Use Case della mia parte di progetto, ma servono
    per i metodi equals e hashCode, che sono necessari per l'utilizzo della funzione assertEquals e che a loro volta non raggiungono il 100%
