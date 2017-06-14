@@ -3,7 +3,11 @@
 ##
 ### Per importare il progetto in Eclipse seguire i comandi seguenti:
 ###
-### File->Import->General->Existing Projects into Workspace -> Select Archive File -> Browse -> [Selezionare il file .zip] -> Finish
+### 1) Scaricare il progetto cliccando da Github su download.
+###
+### 2) Aprire Eclipse
+###
+### 3) Andare su File -> Import -> General -> Projects from Folder or Archive -> Directory -> [Selezionare la cartella p4_accetta_cristian-master] -> Finish
 ###
 ### Le classi riguardanti la mia parte di progetto sono Sistema, Gruppo e Dati, in aggiunta per l'interfaccia grafica ho creato anche la classe ButtonListener e per il salvataggio permanente su disco dei dati ho creato la classe FileIO. Per far funzionare l'interfaccia grafica ed il salvataggio su disco ho creato la classe MainGui.
 ###
